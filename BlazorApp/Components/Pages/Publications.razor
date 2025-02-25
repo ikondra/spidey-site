@@ -1,0 +1,25 @@
+﻿@page "/publications"
+
+<PageTitle>Publications</PageTitle>
+
+<h3>Publications</h3>
+
+<body>
+    @for (int i = 0; i < titles.Length; i++) {
+        <hr>
+        <p><b>@titles[i]</b></p>
+        <p style="margin-left: 40px;">@authorsFirstHalf[i] <u>Isabelle Ondracek,</u> @authorsSecondHalf[i] <i>@desc[i]</i></p>
+        <p style="margin-left: 40px;"><a href=@links[i]>Read the paper here!</a></p>
+    }
+</body>
+
+@code {
+    string[] titles = ["Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision Language Models.", "Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models."];
+    string[] authorsFirstHalf = ["Keyan Guo, Ayush Utkarsh, Wenbo Ding, ", "Nishant Vishwamitra, Keyan Guo, Farhan Tajwar Romit, "];
+    string[] authorsSecondHalf = ["Ziming Zhao, Guo Freeman, Nishant Vishwamitra, & Hongxin Hu.", "Long Cheng, Ziming Zhao, & Hongxin Hu."];
+    string[] desc = ["In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 2024).", "In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P 2024)."];
+    string[] links = ["https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan", "https://arxiv.org/abs/2312.15099"];
+
+    //private Publication illicitImages = new("Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision Language Models.", "Keyan Guo, Ayush Utkarsh, Wenbo Ding, ", "Ziming Zhao, Guo Freeman, Nishant Vishwamitra, & Hongxin Hu.", "In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 2024).", "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan");
+    //private Publication onlineHate = new();
+}
