@@ -2,15 +2,16 @@
 
 <PageTitle>Home</PageTitle>
 
-<h3>Isabelle Ondracek</h3>
+<h3>Isabelle Ondracek <a href=@gitHubLink><img src=@gitHubLogo class="logo"></a>
+<a href=@linkedInLink><img src=@linkedInLogo class="logo"></a></h3>
 <hr>
 
-<p>LinkedIn</p>
-<p>GitHub</p>
-
-<p>Hello, I'm Isabelle! I graduated from University at Buffalo with my BS in Computer Science and Cybersecurity minor in 2023.</p>
+<div class="clearfix"><img style="max-width: 300px;float:left;margin-right:20px;" src=@myface>Hello, I'm Isabelle! I graduated from University at Buffalo with my BS in Computer Science and Cybersecurity minor in 2023.</div>
 
 @code {
-    string linkedInLink = "https://www.linkedin.com/in/isabelle-ondracek/";
-    string gitHubLink = "https://github.com/ikondra";
+    private string gitHubLink = "https://github.com/ikondra";
+    private string gitHubLogo = "/images/github.png";
+    private string linkedInLink = "https://www.linkedin.com/in/isabelle-ondracek/";
+    private string linkedInLogo = "/images/linkedin.png";
+    private string myface = "/images/sharkgirl.png";
 }

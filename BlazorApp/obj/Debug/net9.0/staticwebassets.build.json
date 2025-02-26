@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y8DJ/FtE/J9k/JoEN2q70h9Y8DdhR1bq2/0d1aOlfx8=",
+  "Hash": "QUL4xCUITT+5SDYjBj/s8USxqFDC+tbf/RZtqfmHnTk=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -647,12 +647,12 @@
       "OriginalItemSpec": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-khy4lop6wu.gz",
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-x2zshku49n.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "app#[.{fingerprint=khy4lop6wu}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=x2zshku49n}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -661,8 +661,8 @@
       "RelatedAsset": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "596e5mu3rg",
-      "Integrity": "KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=",
+      "Fingerprint": "gkcvo72589",
+      "Integrity": "oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\app.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "khy4lop6wu",
-      "Integrity": "aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=",
+      "Fingerprint": "x2zshku49n",
+      "Integrity": "Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -1086,6 +1086,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\flora.jpg",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/flora#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qayb1vf7u7",
+      "Integrity": "Yq9rIQKDCvQbV7klxqgpUqS2MdH64g5E2fco4RmynHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\flora.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\github.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/github#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m4sy9ftajx",
+      "Integrity": "GqgWbCi190Tr+tW+PB8HIjVB1WhPSVMz5OPY73w45Go=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\github.png"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\linkedin.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/linkedin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1o3ed245lv",
+      "Integrity": "Ef+AyEo1XJ0tqUTAKAlG+SpfniulfwG8dmxvXjYcBu8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\linkedin.png"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\littlebighorn.jpg",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/littlebighorn#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h1ibn5kgkc",
+      "Integrity": "FRtwU12iLqFZVCNEtaSbw11w+bbv9hQpupGE9H9bzdQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\littlebighorn.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\seniorportrait.jpg",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/seniorportrait#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hose2y2nbd",
+      "Integrity": "T42TLISLScePNXhrhibPZmXGKx0ITRMgJkGWAQKo7Cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\seniorportrait.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\sharkgirl.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/sharkgirl#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nmqxe4fa1b",
+      "Integrity": "D9M2Q6B24Ep1ZaZSZncchyQYWHJuGgPr4Q6wdCUPgAM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sharkgirl.png"
+    },
+    {
+      "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\trophies.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/trophies#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nsb876c0af",
+      "Integrity": "t+zj5ON5s35BqvmiGgURejSvhhMaWGq0nrS31muM8wI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trophies.png"
     },
     {
       "Identity": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2015,12 +2162,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-khy4lop6wu.gz",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-x2zshku49n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000636132316"
+          "Quality": "0.000578368999"
         }
       ],
       "ResponseHeaders": [
@@ -2030,15 +2177,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1571"
+          "Value": "1728"
         },
         {
           "Name": "ETag",
-          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
+          "Value": "\"oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:17:30 GMT"
+          "Value": "Wed, 26 Feb 2025 21:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2058,13 +2205,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "W/\"Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo="
         }
       ]
     },
@@ -2079,7 +2226,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2900"
+          "Value": "3234"
         },
         {
           "Name": "Content-Type",
@@ -2087,11 +2234,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "\"Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:17:30 GMT"
+          "Value": "Wed, 26 Feb 2025 21:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2101,13 +2248,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-khy4lop6wu.gz",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-x2zshku49n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2116,7 +2263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1571"
+          "Value": "1728"
         },
         {
           "Name": "Content-Type",
@@ -2124,11 +2271,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
+          "Value": "\"oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:17:30 GMT"
+          "Value": "Wed, 26 Feb 2025 21:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2146,18 +2293,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0="
+          "Value": "sha256-oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg="
         }
       ]
     },
     {
-      "Route": "app.khy4lop6wu.css",
-      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-khy4lop6wu.gz",
+      "Route": "app.x2zshku49n.css",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-x2zshku49n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000636132316"
+          "Quality": "0.000578368999"
         }
       ],
       "ResponseHeaders": [
@@ -2167,15 +2314,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1571"
+          "Value": "1728"
         },
         {
           "Name": "ETag",
-          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
+          "Value": "\"oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:17:30 GMT"
+          "Value": "Wed, 26 Feb 2025 21:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2195,13 +2342,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "W/\"Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khy4lop6wu"
+          "Value": "x2zshku49n"
         },
         {
           "Name": "label",
@@ -2209,12 +2356,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo="
         }
       ]
     },
     {
-      "Route": "app.khy4lop6wu.css",
+      "Route": "app.x2zshku49n.css",
       "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2224,7 +2371,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2900"
+          "Value": "3234"
         },
         {
           "Name": "Content-Type",
@@ -2232,11 +2379,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "\"Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:17:30 GMT"
+          "Value": "Wed, 26 Feb 2025 21:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2246,7 +2393,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khy4lop6wu"
+          "Value": "x2zshku49n"
         },
         {
           "Name": "label",
@@ -2254,13 +2401,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-Z/5A7acc9qii0XAShFx3aFXydPTqfjRKr5xCujMALVo="
         }
       ]
     },
     {
-      "Route": "app.khy4lop6wu.css.gz",
-      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-khy4lop6wu.gz",
+      "Route": "app.x2zshku49n.css.gz",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-x2zshku49n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2269,7 +2416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1571"
+          "Value": "1728"
         },
         {
           "Name": "Content-Type",
@@ -2277,11 +2424,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
+          "Value": "\"oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:17:30 GMT"
+          "Value": "Wed, 26 Feb 2025 21:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2299,7 +2446,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khy4lop6wu"
+          "Value": "x2zshku49n"
         },
         {
           "Name": "label",
@@ -2307,7 +2454,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0="
+          "Value": "sha256-oLrW3HmnY0aY5jTXgGLOpBYwYWNs3klMUKRTj3NTDKg="
         }
       ]
     },
@@ -2986,6 +3133,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/flora.jpg",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\flora.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "961616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yq9rIQKDCvQbV7klxqgpUqS2MdH64g5E2fco4RmynHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:27:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yq9rIQKDCvQbV7klxqgpUqS2MdH64g5E2fco4RmynHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/flora.qayb1vf7u7.jpg",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\flora.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "961616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yq9rIQKDCvQbV7klxqgpUqS2MdH64g5E2fco4RmynHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 20:27:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qayb1vf7u7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/flora.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yq9rIQKDCvQbV7klxqgpUqS2MdH64g5E2fco4RmynHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/github.m4sy9ftajx.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GqgWbCi190Tr+tW+PB8HIjVB1WhPSVMz5OPY73w45Go=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 13:40:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4sy9ftajx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/github.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GqgWbCi190Tr+tW+PB8HIjVB1WhPSVMz5OPY73w45Go="
+        }
+      ]
+    },
+    {
+      "Route": "images/github.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GqgWbCi190Tr+tW+PB8HIjVB1WhPSVMz5OPY73w45Go=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 13:40:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GqgWbCi190Tr+tW+PB8HIjVB1WhPSVMz5OPY73w45Go="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.1o3ed245lv.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ef+AyEo1XJ0tqUTAKAlG+SpfniulfwG8dmxvXjYcBu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 13:39:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1o3ed245lv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/linkedin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ef+AyEo1XJ0tqUTAKAlG+SpfniulfwG8dmxvXjYcBu8="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ef+AyEo1XJ0tqUTAKAlG+SpfniulfwG8dmxvXjYcBu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 13:39:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ef+AyEo1XJ0tqUTAKAlG+SpfniulfwG8dmxvXjYcBu8="
+        }
+      ]
+    },
+    {
+      "Route": "images/littlebighorn.h1ibn5kgkc.jpg",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\littlebighorn.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1788553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FRtwU12iLqFZVCNEtaSbw11w+bbv9hQpupGE9H9bzdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 19:24:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1ibn5kgkc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/littlebighorn.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FRtwU12iLqFZVCNEtaSbw11w+bbv9hQpupGE9H9bzdQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/littlebighorn.jpg",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\littlebighorn.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1788553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FRtwU12iLqFZVCNEtaSbw11w+bbv9hQpupGE9H9bzdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 19:24:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FRtwU12iLqFZVCNEtaSbw11w+bbv9hQpupGE9H9bzdQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/seniorportrait.hose2y2nbd.jpg",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\seniorportrait.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6991329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T42TLISLScePNXhrhibPZmXGKx0ITRMgJkGWAQKo7Cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jul 2018 02:11:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hose2y2nbd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/seniorportrait.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T42TLISLScePNXhrhibPZmXGKx0ITRMgJkGWAQKo7Cw="
+        }
+      ]
+    },
+    {
+      "Route": "images/seniorportrait.jpg",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\seniorportrait.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6991329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T42TLISLScePNXhrhibPZmXGKx0ITRMgJkGWAQKo7Cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jul 2018 02:11:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T42TLISLScePNXhrhibPZmXGKx0ITRMgJkGWAQKo7Cw="
+        }
+      ]
+    },
+    {
+      "Route": "images/sharkgirl.nmqxe4fa1b.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\sharkgirl.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6954232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D9M2Q6B24Ep1ZaZSZncchyQYWHJuGgPr4Q6wdCUPgAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 19:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nmqxe4fa1b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sharkgirl.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D9M2Q6B24Ep1ZaZSZncchyQYWHJuGgPr4Q6wdCUPgAM="
+        }
+      ]
+    },
+    {
+      "Route": "images/sharkgirl.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\sharkgirl.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6954232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D9M2Q6B24Ep1ZaZSZncchyQYWHJuGgPr4Q6wdCUPgAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 19:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D9M2Q6B24Ep1ZaZSZncchyQYWHJuGgPr4Q6wdCUPgAM="
+        }
+      ]
+    },
+    {
+      "Route": "images/trophies.nsb876c0af.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\trophies.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9060234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t+zj5ON5s35BqvmiGgURejSvhhMaWGq0nrS31muM8wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 19:41:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nsb876c0af"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trophies.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t+zj5ON5s35BqvmiGgURejSvhhMaWGq0nrS31muM8wI="
+        }
+      ]
+    },
+    {
+      "Route": "images/trophies.png",
+      "AssetFile": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\trophies.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9060234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t+zj5ON5s35BqvmiGgURejSvhhMaWGq0nrS31muM8wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 19:41:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t+zj5ON5s35BqvmiGgURejSvhhMaWGq0nrS31muM8wI="
         }
       ]
     },

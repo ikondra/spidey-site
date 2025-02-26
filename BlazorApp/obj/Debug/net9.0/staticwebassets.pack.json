@@ -13,6 +13,34 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\flora.jpg",
+      "PackagePath": "staticwebassets\\images\\flora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\github.png",
+      "PackagePath": "staticwebassets\\images\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\littlebighorn.jpg",
+      "PackagePath": "staticwebassets\\images\\littlebighorn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\seniorportrait.jpg",
+      "PackagePath": "staticwebassets\\images\\seniorportrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\sharkgirl.png",
+      "PackagePath": "staticwebassets\\images\\sharkgirl.png"
+    },
+    {
+      "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\images\\trophies.png",
+      "PackagePath": "staticwebassets\\images\\trophies.png"
+    },
+    {
       "Id": "C:\\Users\\ikond\\Projects\\PersonalWebsite\\spidey-site\\BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
